@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  backend:
+    image: "fastapi_template-backend:latest"
+
+  frontend:
+    image: "fastapi_template-frontend:latest"
